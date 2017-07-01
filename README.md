@@ -2,5 +2,5 @@
 aborted project
 
 2016 year
-making one on one RTS game
+making one on one RTS game,
 aborted
